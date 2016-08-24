@@ -1,2 +1,2 @@
 # kyu-sz.github.io
-Personal website.
+My personal website.
